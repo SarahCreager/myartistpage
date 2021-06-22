@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+}
+header {background-color: rgb(100, 204, 230);
+    text-align: center;
+   
+}
+
+h1 {background-color:#086386;
+    border: rgb(4, 42, 51) 4px solid;
+    color: #fdfdfd
+}
+
+header li {background-color: rgba(23, 67, 92, 0.89);
+    border: rgb(4, 42, 51) 2px solid;
+    display: inline;
+    color: white;
+    padding: 8px;
+    margin: 6px 4px;
+}
+
+#section1 {
+    text-align: center;
+
+}
+
+#section2 {
+    text-align: center;
+}
